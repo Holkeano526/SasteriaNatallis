@@ -1,0 +1,12 @@
+@font-face {
+    font-family: 'LHFChicagoScript';
+    src: url('LHFChicagoScript.eot');
+    src: local('☞LHF Chicago Script'), local('LHFChicagoScript'),
+        url('LHFChicagoScript.eot?#iefix') format('embedded-opentype'),
+        url('LHFChicagoScript.woff2') format('woff2'),
+        url('LHFChicagoScript.woff') format('woff'),
+        url('LHFChicagoScript.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+}
+
